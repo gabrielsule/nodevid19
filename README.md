@@ -21,3 +21,8 @@ o
 
 node index.js --pais argentina
 ```
+
+### Referencia
+Los datos de la API consumida provienen de [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+
+![](https://covid19api.com/logo-color-sm.png)
